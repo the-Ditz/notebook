@@ -1,0 +1,11 @@
+# feed into a file (will overwrite contents)
+[source] > [destination]
+
+# append to fiel 
+[source] >> [destionation]
+
+# open in page
+
+
+head [file]      - opens hest top 10 lines
+tails [file]     - opens jsut last 10 lines

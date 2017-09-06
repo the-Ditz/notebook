@@ -1,0 +1,16 @@
+##GIT NOTES
+
+# add a file to staging
+ git add <file>
+
+# commit changes from staging 
+ git commit -m "comment"
+
+# show log changes
+ git log
+
+# show the contents
+ git ll
+
+# 
+ get status

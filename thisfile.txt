@@ -1,0 +1,294 @@
+    1  ls -G
+    2  xcode-select --install
+    3  xcode-select --install
+    4  xcode-select --install
+    5  xcode-select --install
+    6  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    7  brew analytics off
+    8  brew help
+    9  v
+   10  brew install bash
+   11  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+   12  chsh -s /usr/local/bin/bash
+   13  bash -version
+   14  whoami
+   15  curl -fsSL https://git.io/v50Ta | ruby
+   16  ls
+   17  desktop
+   18  Desktop/
+   19  cd Desktop/
+   20  ~
+   21  cd ~
+   22  Desktop/
+   23  ls
+   24  ~
+   25  ls
+   26  ls
+   27  brew install git
+   28  git --vversion
+   29  git --version
+   30  brew install bash-completion
+   31  curl -fsSL https://git.io/v504A | ruby
+   32  git config --global user.name 'ditzlern'
+   33  git config --global user.email youremail@address.com
+   34  git config --global user.email ditzlern@amazon.com
+   35  git config --list
+   36  git config --global user.name 'Nick Ditzler'
+   37  git config --list
+   38  curl -fsSL https://git.io/v500H | sh
+   39  git config --list
+   40  java -version
+   41  whoami
+   42  ls
+   43  ls /Users/ditzlern
+   44  cd Desktop/
+   45  ls
+   46  `
+   47  ~
+   48  ~
+   49  c
+   50  !
+   51  cd ~
+   52  '
+   53  ,
+   54  echo $EDITOR
+   55  echo $SHELL
+   56  env
+   57  echo $TERM
+   58  open .
+   59  cd Desktop/
+   60  open.
+   61  open .
+   62  ls -l
+   63  ls -h
+   64  ls -hl
+   65  ll
+   66  ls - hal
+   67  ls -hal
+   68  ~
+   69  ll
+   70  ls -hal
+   71  ls -a
+   72  la
+   73  ll
+   74  la
+   75  ls -l -h -a
+   76  man
+   77  ls
+   78  ls man
+   79  man ls
+   80  ls -F
+   81  desktop
+   82  ls -F
+   83  man ls
+   84  ls -rS
+   85  ls -rSlh
+   86  ~
+   87  ls -rSlh
+   88  ls -Slh
+   89  ls -rSlh
+   90  man ls
+   91  help
+   92  man cd
+   93  clear
+   94  env
+   95  echo $SHELL
+   96  echo $PATH
+   97  which echo
+   98  ls /usr/local/bin
+   99  ll /usr/bin.
+  100  ll /bin
+  101  ll /usr/sbin/
+  102  echo $EDITOR
+  103  nano ~/.bash_profile
+  104  cat ~/.bash_profile
+  105  brew install tree
+  106  brew install tree
+  107  tree ~
+  108  tree -L 1 ~
+  109  tree -L 2 ~
+  110  cd /
+  111  ll
+  112  sudo ls
+  113  cd ~
+  114  cd ../..
+  115  cd ...
+  116  cd ../.
+  117  ~
+  118  cd .../.
+  119  cd ../.
+  120  cd ../..
+  121  ~
+  122  Desktop
+  123  cd ../..
+  124  cd ../..
+  125  cd ../..
+  126  Desktop
+  127  Desktop
+  128  cd
+  129  Desktop
+  130  cd ../.
+  131  cd ../.
+  132  cd ../.
+  133  cd ../.
+  134  `
+  135  Desktop
+  136  Desktop
+  137  pwd
+  138  ~
+  139  pwd
+  140  cd ditzler
+  141  cd ditzler/
+  142  cd ditzlern/
+  143  cd Users/
+  144  cd /Users/ditzlern/Desktop/
+  145  .
+  146  cd .
+  147  .
+  148  cd .
+  149  cd /
+  150  ls
+  151  cd System
+  152  ls
+  153  cd /Library
+  154  ls
+  155  cd Conteextual_Menu_Items/
+  156  cd Conteextual Menu Items/
+  157  cd Contextual_Menu_Items/
+  158  cd Contextual Menu Items/
+  159  cd Security
+  160  ls
+  161  cd Settings
+  162  cd Settings/
+  163  cd /Settings/
+  164  cd Settings
+  165  -
+  166  cd -
+  167  cd -
+  168  cd -
+  169  ls
+  170  cd Java
+  171  ls
+  172  cd Extensions
+  173  ls
+  174  ls
+  175  cd - 
+  176  cd -
+  177  cd Fonts
+  178  ls
+  179  cd -
+  180  cd -
+  181  ls
+  182  cd - 
+  183  ls
+  184  cd ..
+  185  ls
+  186  cd Printers
+  187  ls
+  188  cd Icons
+  189  ls
+  190  mkdir ~/Projects
+  191  cd /Projects
+  192  cd ~/Projects/
+  193  mkdir week01
+  194  cd week01/
+  195  pwd
+  196  echo $?
+  197  lloii.
+  198  echo $?
+  199  mkdir notebook/
+  200  touch notes.txt
+  201  ll
+  202  rm notes.txt
+  203  ll
+  204  cd notebook/
+  205  touch notes.txt
+  206  ll
+  207  cat notes.txt
+  208  nano notes.txt
+  209  cat notes.txt
+  210  ll
+  211  mv notes.txt somenotes.txt
+  212  mkdir temp/
+  213  mv notes.txt temp/notes.txt
+  214  mv somenotes.txt temp/notes.txt
+  215  ll
+  216  cd temp/
+  217  ll
+  218  cp notes.txt dupenotes.txt
+  219  ll
+  220  rm dupenotes.txt
+  221  cd ..
+  222  rmdir temp/
+  223  man rmdir
+  224  rmdir *
+  225  man rm
+  226  rm -d
+  227  rm -d notebook/
+  228  rm -d temp/
+  229  man rm
+  230  rm -R
+  231  rm -R temp/
+  232  ls
+  233  man rm
+  234  mkdir stuff/
+  235  ls
+  236  cd stuff/
+  237  touch file
+  238  cd ..
+  239  ls
+  240  rm -rv stuff/
+  241  ls
+  242  cd stuff/
+  243  mkdir stuff/
+  244  touch file
+  245  cd stuff/
+  246  touch file
+  247  cd ..
+  248  mkdir stuff2/
+  249  cd stuff2/
+  250  touch 'stuff book with long file name'
+  251  ls
+  252  cat stuff\ book\ with\ long\ file\ name 
+  253  nova stuff\ book\ with\ long\ file\ name 
+  254  nano stuff\ book\ with\ long\ file\ name 
+  255  cat stuff\ book\ with\ long\ file\ name 
+  256  mc stuff\ book\ with\ long\ file\ name "interesting test"
+  257  mv stuff\ book\ with\ long\ file\ name "interesting test"
+  258  ls
+  259  cp interesting\ test "this is the copy
+cat interesting\ test 
+  260  cp interesting\ test "this is the copy"
+  261  ls
+  262  touch this.txt
+  263  ls
+  264  ll
+  265  rm .*
+  266  rm *.*
+  267  ls
+  268  ll
+  269  rm
+  270  clear
+  271  ls
+  272  ll
+  273  mkdir-p  bash/nano
+  274  mkdir -p  bash/nano
+  275  ls
+  276  rm -r
+  277  rm -r bash
+  278  ls
+  279  cp -r
+  280  cp -r bash
+  281  mkdir bash
+  282  ls
+  283  cp -r bash
+  284  cp -r bash/
+  285  history
+  286  clear
+  287  jjk
+  288  history
+  289  history 20
+  290  history 20
+  291  cd..
+  292  cd ..
+  293  history > thisfile.txt
